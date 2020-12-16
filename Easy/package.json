@@ -1,0 +1,19 @@
+{
+  "name": "@dvlyn/week-13",
+  "version": "1.0.1",
+  "description": "test package",
+  "main": "script.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Evelyn N",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "na"
+  ],
+  "dependencies": {}
+}
